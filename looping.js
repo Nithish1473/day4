@@ -35,4 +35,5 @@
 
 // function addToCart(){
 //     alert("Product is added to cart");
-// }
+//  }
+
