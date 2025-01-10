@@ -1,0 +1,17 @@
+types of functions :-
+1.named functions
+2.anonymous functions
+3.function expression
+4.immediate invoke function expression(IIFE)
+5.Arrow function
+syntax:- ()=>{}
+6.higher order function
+7.calllback functiuon
+
+
+Note:-
+-es6-
+current version of javascript is es14
+es6- is stable version
+es- ECMA Script
+ECMA - european computer manuifacturing association 
