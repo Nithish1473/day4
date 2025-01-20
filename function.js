@@ -107,19 +107,41 @@
 
 //?Closure
 
-function x(){
-    let a = 10;
-    let b = "Hello";
-    var user = "Nithish";
-    let company = "TCS";
-    const sal = 14787999;
-    console.log(user);
-    console.log(company);
-    console.log(sal);
-    console.log(a,b);
-};
-x();
+// function x(){
+//     let a = 10;
+//     let b = "Hello";
+//     var user = "Nithish";
+//     let company = "TCS";
+//     const sal = 14787999;
+//     console.log(user);
+//     console.log(company);
+//     console.log(sal);
+//     console.log(a,b);
+// };
+// x();         
 
+
+function x(){
+    let a=10;
+    const b=20;
+    console.log(a,b);
+    function y(){
+        let p="js";
+        var q="XReactjs";
+        console.log(p,q);
+        function z(){
+            const username= "Nithish"
+            console.log(username)
+            console.log(a)
+            console.log(q)
+
+        }
+        z();
+    }
+    y();
+
+}
+x();
 
 
 

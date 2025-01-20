@@ -7,7 +7,7 @@ types of functions :-
 syntax:- ()=>{}
 6.higher order function
 7.calllback functiuon
-
+- Closure:-
 
 Note:-
 -es6-
