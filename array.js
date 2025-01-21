@@ -47,7 +47,7 @@
 // ! JSON
 
 let userDetails ={ 
-    name :"Nithis",
+    name :"Nithish",
     age:21,
     city:"KLP"
 };

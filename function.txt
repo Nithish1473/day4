@@ -15,3 +15,41 @@ current version of javascript is es14
 es6- is stable version
 es- ECMA Script
 ECMA - european computer manuifacturing association 
+
+
+
+what is object?
+ - object is an entity which is having states and behaviours
+ -object is used to store the data in the form of key & value pairs
+
+
+ syntax= let object ={}
+
+ -this:- it is used to target current executing object
+
+
+JSON:- javascript object notation
+
+JSON METHODS:
+1.JSON.stringfy() it is used to convert javascript  to java object
+2.JSON.parse(): it is used to convert java to javascript object
+
+
+
+asynchrnous in javascript:-
+***************************
+- to perform multiple task in javascript
+
+1.setTimeout():- it is web api used to performasync operation at specific time 
+2.setInteval():- it is a web api it is used to perform async operation at certain time 
+3.promise  :- promise is an object which represents evbentual completion or failures of an async operation
+state of promises:-
+1.pending state
+2.fullfilled state
+3.rejected state
+
+syntax:- let p = new Promise((resolve , reject)=>{});
+
+4.async & await
+
+note:- by default , javascript is synchronous (single threaded)
